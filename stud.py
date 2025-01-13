@@ -16,7 +16,7 @@ def Ok():
     gradeText.set(grade)
 
 root = Tk()
-root.title("Student Marks Calculation System")
+root.title(" ** Student Marks Calculation System **")
 root.geometry("300x400")
 
 global e1
